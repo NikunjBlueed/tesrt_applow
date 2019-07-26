@@ -24,6 +24,7 @@
     "base-64": "^0.1.0",
     "call-number": "^1.0.1",
     "cordova-plugin-dialogs": "^2.0.2",
+    "cordova-plugin-ionic": "5.4.0",
     "couchbase-lite-phonegap-plugin": "^1.4.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
